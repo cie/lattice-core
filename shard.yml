@@ -8,7 +8,7 @@ dependencies:
   kemal:
     github: kemalcr/kemal
   kemal-session:
-    github: jasonl99/kemal-session
+    github: kemalcr/kemal-session
     branch: master
     # branch: session_timeout
     # branch: master
