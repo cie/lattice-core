@@ -2,7 +2,7 @@ require "kemal"
 require "kemal-session"
 require "baked_file_system"
 require "colorize"
-require "logger"
+require "log"
 require "kilt/slang"
 require "./lattice-core/*"
 
